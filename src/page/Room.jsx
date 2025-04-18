@@ -22,7 +22,7 @@ const Room = () => {
       sharedLinks: [
         {
           name: "Link",
-          url: `http://localhost:5173/room/${id}`,
+          url: `https://zego-cloud-video-calling.vercel.app/room/${id}`,
         },
       ],
       scenario: {
